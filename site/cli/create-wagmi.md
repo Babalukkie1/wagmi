@@ -1,3 +1,4 @@
+![1753413586680](https://github.com/user-attachments/assets/049363cb-1856-4d73-a143-ce34a2afae97)
 # create-wagmi
 
 ## Overview
